@@ -29,10 +29,10 @@
     "url": "git://github.com/telemark/wcag-report-website.git"
   },
   "devDependencies": {
-    "coveralls": "2.11.16",
+    "coveralls": "2.12.0",
     "nsp": "2.6.2",
     "standard": "10.0.1",
-    "tap": "10.2.0"
+    "tap": "10.2.1"
   },
   "dependencies": {
     "sitemap-to-array": "4.0.0",
