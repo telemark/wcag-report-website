@@ -35,7 +35,7 @@
     "tap": "10.3.3"
   },
   "dependencies": {
-    "sitemap-to-array": "4.0.0",
+    "sitemap-to-array": "5.0.0",
     "tfk-json-to-xlsx": "1.0.8",
     "wcag-validator": "2.0.1",
     "xml2js": "0.4.17"
