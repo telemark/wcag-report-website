@@ -1,6 +1,6 @@
 {
   "name": "wcag-report-website",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "Deadlinks reporter",
   "license": "MIT",
   "author": {
@@ -35,7 +35,7 @@
     "tap": "10.7.1"
   },
   "dependencies": {
-    "sitemap-to-array": "5.0.1",
+    "sitemap-to-array": "5.0.0",
     "tfk-json-to-xlsx": "1.0.8",
     "wcag-validator": "2.0.1",
     "xml2js": "0.4.18"
