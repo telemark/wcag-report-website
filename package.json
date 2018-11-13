@@ -33,7 +33,7 @@
     "nsp": "3.2.1",
     "coveralls": "3.0.2",
     "standard": "12.0.1",
-    "tap": "12.0.1"
+    "tap": "12.1.0"
   },
   "dependencies": {
     "sitemap-to-array": "5.0.1",
