@@ -13,12 +13,10 @@ Clone or download the repo from GitHub
 $ git clone git@github.com:telemark/wcag-report-website.git
 ```
 
-## Setup
+cd into directory and install all dependencies
 
-cd into directory and run the setup script to install all dependencies
-``
 ```sh
-$ npm run setup
+$ npm install
 ```
 
 ## Usage
