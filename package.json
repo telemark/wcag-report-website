@@ -37,7 +37,7 @@
   "dependencies": {
     "sitemap-to-array": "5.0.1",
     "tfk-json-to-xlsx": "2.0.0",
-    "wcag-validator": "2.0.1",
+    "wcag-validator": "3.0.0",
     "xml2js": "0.4.19"
   }
 }
